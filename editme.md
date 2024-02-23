@@ -1,3 +1,4 @@
 _Write a question for your teacher below._
 
-Q: 
+Q: What is your favorite color?
+
